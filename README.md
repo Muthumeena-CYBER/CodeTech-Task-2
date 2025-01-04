@@ -35,7 +35,7 @@ pip install python-nmap requests
 
 **Clone the Repository**
 bash
-git clone https://github.com/Badalkathayat/vulnerability-scanning-tool.git
+git clone https://github.com/Muthumeena-CYBER/CodeTech-Task-2/tree/main
 cd vulnerability-scanning-tool
 
 
